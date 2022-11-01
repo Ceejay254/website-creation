@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>victor kimutai</title>
+</head>
+<body>
+    <img src="images/kim.jpg" alt=""width="650" height="600">
+    <script src="script.js"></script>
+   <h1>ABOUT VICTOR</h1>
+    <p>Hello there, i'm victor</p>
+   <p>This is the list of things i own</p>
+   <ul>
+        <li>boat</li>
+        <li>house</li>
+        <li>farm</li>
+        <li>car</li>
+   </ul><hr>
+   <p>This is another list of items</p>
+   <ol>
+           <li>beachhouse</li>
+           <li>company</li>
+           <li>vegetables</li>
+   </ol><hr>
+   <img src="images/car.jpg - Shortcut.lnk" alt ="favourite car"width="320" height="190">
+    <h3>This is my favourite car</h3>
+    <p>check out my website <a href="https://google.com/">here</a></p>
+<br><hr>
+
+<p>fill my form <a href="form.html">here</a></p>
+<body>
+</html>
